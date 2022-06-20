@@ -1,2 +1,2 @@
-# folder
-# this is folder gatherring my code to exercise Manim.
+# Exercise
+# this is a branch gatherring my code to exercise Manim.
